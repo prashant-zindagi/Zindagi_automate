@@ -1,0 +1,44 @@
+//Documents Notes : 
+
+sudo -i
+echo "172.16.4.199 ctf-config-service-ncr2qa.zindagi.tech" >> /etc/hosts
+
+
+
+export _JAVA_OPTIONS='-Dsun.java2d.uiScale=2'
+./jmeter
+
+Dev username and password for NCR2.0  -  admin, JaiHind!
+
+
+
+NCR1.0 QA Env :  http://portal-qa.cr.zindagi.tech/
+
+Cred: 
+green@cr1.corp
+India@143
+
+
+white@cr1.corp
+India@143
+
+red@cr1.corp
+India@143
+
+blue@cr1.corp
+India@143
+
+
+Dev Env : https://launcher.criticalrange.co:9444/
+
+
+
+make goals more modify
+role based access control name should confirm and rewrite again
+CTF and TLX have 2 types so please go through both the points and add on properly
+User onboarding understand and add on the planning
+
+
+
+
+

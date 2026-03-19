@@ -1,1 +1,0 @@
-# Zindagi_automate
